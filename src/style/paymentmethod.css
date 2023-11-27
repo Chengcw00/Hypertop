@@ -1,0 +1,372 @@
+.payment-method {
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .payment-method .div {
+    background-color: #d9d9d9;
+    height: 1117px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .payment-method .overlap {
+    background-color: #edbf48;
+    height: 160px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1728px;
+  }
+  
+  .payment-method .text-wrapper {
+    color: #010101;
+    font-family: "Kelly Slab", Helvetica;
+    font-size: 75px;
+    font-weight: 400;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+    width: 299px;
+  }
+  
+  .payment-method .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 463px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 118px;
+  }
+  
+  .payment-method .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 616px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 184px;
+  }
+  
+  .payment-method .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 835px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 134px;
+  }
+  
+  .payment-method .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 1004px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 146px;
+  }
+  
+  .payment-method .text-wrapper-6 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 1185px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 218px;
+  }
+  
+  .payment-method .overlap-group {
+    background-image: url(https://c.animaapp.com/MauglWm3/img/free-add-to-cart-icon-3046-thumb-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 62px;
+    left: 1518px;
+    position: absolute;
+    top: 54px;
+    width: 62px;
+  }
+  
+  .payment-method .text-wrapper-7 {
+    color: #edbf48;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .payment-method .overlap-2 {
+    height: 55px;
+    left: 1623px;
+    position: absolute;
+    top: 60px;
+    width: 55px;
+  }
+  
+  .payment-method .text-wrapper-8 {
+    color: #edbf48;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .payment-method .img {
+    height: 45px;
+    left: 5px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 45px;
+  }
+  
+  .payment-method .overlap-group-2 {
+    height: 55px;
+    left: 567px;
+    position: absolute;
+    top: 201px;
+    width: 594px;
+  }
+  
+  .payment-method .text-wrapper-9 {
+    color: #000000;
+    font-family: "Wallpoet", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 88px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 574px;
+  }
+  
+  .payment-method .line {
+    height: 9px;
+    left: 0;
+    position: absolute;
+    top: 47px;
+    width: 594px;
+  }
+  
+  .payment-method .overlap-3 {
+    background: linear-gradient(180deg, rgb(218.01, 194.79, 112.46) 0%, rgba(218.01, 112.46, 112.46, 0) 100%);
+    height: 837px;
+    left: 0;
+    position: absolute;
+    top: 280px;
+    width: 1728px;
+  }
+  
+  .payment-method .overlap-4 {
+    background-color: #000000;
+    border-radius: 40px;
+    height: 145px;
+    left: 295px;
+    position: absolute;
+    top: 212px;
+    width: 1138px;
+  }
+  
+  .payment-method .rectangle {
+    background-color: #d9d9d9;
+    border-radius: 40px;
+    height: 133px;
+    left: 4px;
+    position: absolute;
+    top: 6px;
+    width: 1130px;
+  }
+  
+  .payment-method .text-wrapper-10 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 601px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+    width: 463px;
+  }
+  
+  .payment-method .ellipse {
+    background-color: #000000;
+    border-radius: 21px;
+    height: 42px;
+    left: 138px;
+    position: absolute;
+    top: 58px;
+    width: 42px;
+  }
+  
+  .payment-method .carddd-removebg {
+    height: 128px;
+    left: 284px;
+    object-fit: cover;
+    position: absolute;
+    top: 8px;
+    width: 193px;
+  }
+  
+  .payment-method .overlap-5 {
+    background-color: #000000;
+    border-radius: 40px;
+    height: 145px;
+    left: 295px;
+    position: absolute;
+    top: 32px;
+    width: 1138px;
+  }
+  
+  .payment-method .text-wrapper-11 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 617px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+    width: 418px;
+  }
+  
+  .payment-method .fpx-logo-removebg {
+    height: 96px;
+    left: 310px;
+    object-fit: cover;
+    position: absolute;
+    top: 31px;
+    width: 176px;
+  }
+  
+  .payment-method .overlap-6 {
+    background-color: #000000;
+    border-radius: 40px;
+    height: 145px;
+    left: 295px;
+    position: absolute;
+    top: 392px;
+    width: 1138px;
+  }
+  
+  .payment-method .text-wrapper-12 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 601px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+    width: 314px;
+  }
+  
+  .payment-method .ellipse-2 {
+    background-color: #edbf48;
+    border-radius: 17px;
+    height: 34px;
+    left: 142px;
+    position: absolute;
+    top: 62px;
+    width: 34px;
+  }
+  
+  .payment-method .element-touch-n-go {
+    height: 99px;
+    left: 332px;
+    object-fit: cover;
+    position: absolute;
+    top: 27px;
+    width: 98px;
+  }
+  
+  .payment-method .overlap-7 {
+    background-color: #000000;
+    border-radius: 40px;
+    height: 145px;
+    left: 295px;
+    position: absolute;
+    top: 572px;
+    width: 1138px;
+  }
+  
+  .payment-method .element-removebg {
+    height: 111px;
+    left: 322px;
+    object-fit: cover;
+    position: absolute;
+    top: 23px;
+    width: 111px;
+  }
+  
+  .payment-method .frame {
+    background-color: #edbf48;
+    border-radius: 40px;
+    height: 70px;
+    left: 782px;
+    overflow: hidden;
+    position: absolute;
+    top: 741px;
+    width: 164px;
+  }
+  
+  .payment-method .text-wrapper-13 {
+    color: #000000cc;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 12px;
+    white-space: nowrap;
+    width: 105px;
+  }
+  

@@ -1,0 +1,255 @@
+.about-us {
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .about-us .div {
+    background-color: #d9d9d9;
+    height: 1117px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .about-us .overlap {
+    height: 54px;
+    left: 747px;
+    position: absolute;
+    top: 201px;
+    width: 233px;
+  }
+  
+  .about-us .text-wrapper {
+    color: #000000;
+    font-family: "Wallpoet", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 220px;
+  }
+  
+  .about-us .line {
+    height: 6px;
+    left: 0;
+    position: absolute;
+    top: 47px;
+    width: 233px;
+  }
+  
+  .about-us .overlap-group {
+    height: 850px;
+    left: 0;
+    position: absolute;
+    top: 267px;
+    width: 1728px;
+  }
+  
+  .about-us .au-bg {
+    background: linear-gradient(180deg, rgb(218.01, 194.79, 112.46) 0%, rgba(218.01, 112.46, 112.46, 0) 100%);
+    height: 837px;
+    left: 0;
+    position: absolute;
+    top: 13px;
+    width: 1728px;
+  }
+  
+  .about-us .element {
+    height: 514px;
+    left: 149px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 514px;
+  }
+  
+  .about-us .p {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 663px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 226px;
+    width: 734px;
+  }
+  
+  .about-us .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 292px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 569px;
+    width: 706px;
+  }
+  
+  .about-us .element-f {
+    height: 438px;
+    left: 1029px;
+    object-fit: cover;
+    position: absolute;
+    top: 412px;
+    width: 579px;
+  }
+  
+  .about-us .overlap-group-2 {
+    background-color: #edbf48;
+    height: 160px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1728px;
+  }
+  
+  .about-us .text-wrapper-3 {
+    color: #010101;
+    font-family: "Kelly Slab", Helvetica;
+    font-size: 75px;
+    font-weight: 400;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+    width: 299px;
+  }
+  
+  .about-us .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 463px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 118px;
+  }
+  
+  .about-us .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 616px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 184px;
+  }
+  
+  .about-us .text-wrapper-6 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 835px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 134px;
+  }
+  
+  .about-us .text-wrapper-7 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 1004px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 146px;
+  }
+  
+  .about-us .text-wrapper-8 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 1185px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 218px;
+  }
+  
+  .about-us .div-wrapper {
+    background-image: url(https://c.animaapp.com/dY9uzBRQ/img/free-add-to-cart-icon-3046-thumb-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 62px;
+    left: 1518px;
+    position: absolute;
+    top: 54px;
+    width: 62px;
+  }
+  
+  .about-us .text-wrapper-9 {
+    color: #edbf48;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .about-us .overlap-2 {
+    height: 55px;
+    left: 1623px;
+    position: absolute;
+    top: 60px;
+    width: 55px;
+  }
+  
+  .about-us .text-wrapper-10 {
+    color: #edbf48;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .about-us .img {
+    height: 45px;
+    left: 5px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 45px;
+  }
+  

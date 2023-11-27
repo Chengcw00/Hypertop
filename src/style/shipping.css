@@ -1,0 +1,373 @@
+.shipping {
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .shipping .div {
+    background-color: #d9d9d9;
+    height: 1117px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .shipping .overlap {
+    background: linear-gradient(180deg, rgb(218.01, 194.79, 112.46) 0%, rgba(218.01, 112.46, 112.46, 0) 100%);
+    height: 837px;
+    left: 0;
+    position: absolute;
+    top: 280px;
+    width: 1728px;
+  }
+  
+  .shipping .rectangle {
+    background-color: #000000;
+    border-radius: 40px;
+    height: 749px;
+    left: 282px;
+    position: absolute;
+    top: 57px;
+    width: 1175px;
+  }
+  
+  .shipping .rectangle-2 {
+    background-color: #d9d9d9;
+    border-radius: 40px;
+    height: 735px;
+    left: 291px;
+    position: absolute;
+    top: 64px;
+    width: 1157px;
+  }
+  
+  .shipping .frame {
+    background-color: #edbf48;
+    border-radius: 40px;
+    height: 70px;
+    left: 697px;
+    overflow: hidden;
+    position: absolute;
+    top: 708px;
+    width: 344px;
+  }
+  
+  .shipping .text-wrapper {
+    color: #000000cc;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 12px;
+    white-space: nowrap;
+    width: 254px;
+  }
+  
+  .shipping .bayan-lepas-jelutong {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 634px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 81px;
+    width: 470px;
+  }
+  
+  .shipping .element-friday {
+    color: #00000099;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 366px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 334px;
+    width: 373px;
+  }
+  
+  .shipping .flexcontainer {
+    align-items: flex-start;
+    
+    flex-direction: column;
+    gap: 50px;
+    height: 244px;
+    left: 366px;
+    position: absolute;
+    top: 425px;
+    width: 194px;
+  }
+  
+  .shipping .text {
+    align-self: stretch;
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+  }
+  
+  .shipping .span {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .shipping .flexcontainer-2 {
+    align-items: flex-start;
+    
+    flex-direction: column;
+    gap: 50px;
+    height: 244px;
+    left: 610px;
+    position: absolute;
+    top: 425px;
+    width: 751px;
+  }
+  
+  .shipping .flexcontainer-3 {
+    align-items: flex-start;
+    
+    flex-direction: column;
+    gap: 50px;
+    height: 244px;
+    left: 555px;
+    position: absolute;
+    top: 422px;
+    width: 14px;
+  }
+  
+  .shipping .rdgbfzsd-removebg {
+    height: 159px;
+    left: 477px;
+    object-fit: cover;
+    position: absolute;
+    top: 151px;
+    width: 722px;
+  }
+  
+  .shipping .line {
+    height: 2px;
+    left: 752px;
+    position: absolute;
+    top: 288px;
+    width: 178px;
+  }
+  
+  .shipping .ellipse {
+    background-color: #000000;
+    border-radius: 9.5px;
+    height: 19px;
+    left: 930px;
+    position: absolute;
+    top: 279px;
+    width: 19px;
+  }
+  
+  .shipping .img {
+    height: 2px;
+    left: 949px;
+    position: absolute;
+    top: 288px;
+    width: 178px;
+  }
+  
+  .shipping .ellipse-2 {
+    background-color: #000000;
+    border-radius: 9.5px;
+    height: 19px;
+    left: 1127px;
+    position: absolute;
+    top: 279px;
+    width: 19px;
+  }
+  
+  .shipping .overlap-group {
+    background-color: #edbf48;
+    height: 160px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1728px;
+  }
+  
+  .shipping .text-wrapper-2 {
+    color: #010101;
+    font-family: "Kelly Slab", Helvetica;
+    font-size: 75px;
+    font-weight: 400;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+    width: 299px;
+  }
+  
+  .shipping .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 463px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 118px;
+  }
+  
+  .shipping .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 616px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 184px;
+  }
+  
+  .shipping .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 835px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 134px;
+  }
+  
+  .shipping .text-wrapper-6 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 1004px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 146px;
+  }
+  
+  .shipping .text-wrapper-7 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 1185px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 218px;
+  }
+  
+  .shipping .div-wrapper {
+    background-image: url(https://c.animaapp.com/yGhZvVbm/img/free-add-to-cart-icon-3046-thumb-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 62px;
+    left: 1518px;
+    position: absolute;
+    top: 54px;
+    width: 62px;
+  }
+  
+  .shipping .text-wrapper-8 {
+    color: #edbf48;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .shipping .overlap-2 {
+    height: 55px;
+    left: 1623px;
+    position: absolute;
+    top: 60px;
+    width: 55px;
+  }
+  
+  .shipping .text-wrapper-9 {
+    color: #edbf48;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .shipping .img-2 {
+    height: 45px;
+    left: 5px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 45px;
+  }
+  
+  .shipping .overlap-group-2 {
+    height: 54px;
+    left: 656px;
+    position: absolute;
+    top: 201px;
+    width: 416px;
+  }
+  
+  .shipping .text-wrapper-10 {
+    color: #000000;
+    font-family: "Wallpoet", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 406px;
+  }
+  
+  .shipping .line-2 {
+    height: 5px;
+    left: 0;
+    position: absolute;
+    top: 49px;
+    width: 416px;
+  }
+  

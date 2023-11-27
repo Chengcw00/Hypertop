@@ -1,0 +1,325 @@
+.deletecart {
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .deletecart .div {
+    background-color: #d9d9d9;
+    height: 1117px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .deletecart .overlap {
+    background-color: #edbf48;
+    height: 160px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1728px;
+  }
+  
+  .deletecart .text-wrapper {
+    color: #010101;
+    font-family: "Kelly Slab", Helvetica;
+    font-size: 75px;
+    font-weight: 400;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+    width: 299px;
+  }
+  
+  .deletecart .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 463px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 118px;
+  }
+  
+  .deletecart .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 616px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 184px;
+  }
+  
+  .deletecart .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 835px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 134px;
+  }
+  
+  .deletecart .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 1004px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 146px;
+  }
+  
+  .deletecart .text-wrapper-6 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 1185px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 218px;
+  }
+  
+  .deletecart .overlap-group {
+    background-image: url(https://c.animaapp.com/cx8NqDNb/img/free-add-to-cart-icon-3046-thumb-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 62px;
+    left: 1518px;
+    position: absolute;
+    top: 54px;
+    width: 62px;
+  }
+  
+  .deletecart .text-wrapper-7 {
+    color: #edbf48;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .deletecart .overlap-2 {
+    height: 55px;
+    left: 1623px;
+    position: absolute;
+    top: 60px;
+    width: 55px;
+  }
+  
+  .deletecart .text-wrapper-8 {
+    color: #edbf48;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .deletecart .img {
+    height: 45px;
+    left: 5px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 45px;
+  }
+  
+  .deletecart .overlap-3 {
+    height: 53px;
+    left: 800px;
+    position: absolute;
+    top: 201px;
+    width: 127px;
+  }
+  
+  .deletecart .text-wrapper-9 {
+    color: #000000;
+    font-family: "Wallpoet", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 120px;
+  }
+  
+  .deletecart .line {
+    height: 5px;
+    left: 0;
+    position: absolute;
+    top: 48px;
+    width: 127px;
+  }
+  
+  .deletecart .overlap-group-2 {
+    background: linear-gradient(180deg, rgb(218.01, 194.79, 112.46) 0%, rgba(218.01, 112.46, 112.46, 0) 100%);
+    height: 837px;
+    left: 0;
+    position: absolute;
+    top: 280px;
+    width: 1728px;
+  }
+  
+  .deletecart .frame {
+    background-color: #ff484880;
+    border-radius: 40px;
+    height: 70px;
+    left: 692px;
+    overflow: hidden;
+    position: absolute;
+    top: 506px;
+    width: 344px;
+  }
+  
+  .deletecart .text-wrapper-10 {
+    color: #00000080;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 88px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    white-space: nowrap;
+    width: 167px;
+  }
+  
+  .deletecart .overlap-4 {
+    background-color: #000000;
+    border-radius: 40px;
+    height: 145px;
+    left: 53px;
+    position: absolute;
+    top: 321px;
+    width: 1620px;
+  }
+  
+  .deletecart .rectangle {
+    background-color: #d9d9d9;
+    border-radius: 40px;
+    height: 133px;
+    left: 6px;
+    position: absolute;
+    top: 6px;
+    width: 1608px;
+  }
+  
+  .deletecart .div-wrapper {
+    background-color: #edbf4880;
+    border-radius: 40px;
+    height: 70px;
+    left: 1152px;
+    overflow: hidden;
+    position: absolute;
+    top: 42px;
+    width: 344px;
+  }
+  
+  .deletecart .text-wrapper-11 {
+    color: #00000080;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 92px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    white-space: nowrap;
+    width: 161px;
+  }
+  
+  .deletecart .total {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 284px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0px;
+    width: 419px;
+  }
+  
+  .deletecart .span {
+    color: #000000;
+  }
+  
+  .deletecart .text-wrapper-12 {
+    color: #ff4848;
+  }
+  
+  .deletecart .overlap-5 {
+    background-color: #000000;
+    border-radius: 40px;
+    height: 169px;
+    left: 54px;
+    position: absolute;
+    top: 81px;
+    width: 1620px;
+  }
+  
+  .deletecart .rectangle-2 {
+    background-color: #d9d9d9;
+    border-radius: 40px;
+    height: 157px;
+    left: 6px;
+    position: absolute;
+    top: 6px;
+    width: 1607px;
+  }
+  
+  .deletecart .p {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 590px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+    width: 439px;
+  }
+  

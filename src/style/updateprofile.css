@@ -1,0 +1,361 @@
+.update-profile {
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .update-profile .div {
+    background-color: #d9d9d9;
+    height: 1117px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .update-profile .overlap {
+    height: 53px;
+    left: 687px;
+    position: absolute;
+    top: 201px;
+    width: 364px;
+  }
+  
+  .update-profile .text-wrapper {
+    color: #000000;
+    font-family: "Wallpoet", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 353px;
+  }
+  
+  .update-profile .line {
+    height: 5px;
+    left: 0;
+    position: absolute;
+    top: 48px;
+    width: 364px;
+  }
+  
+  .update-profile .overlap-group {
+    background: linear-gradient(180deg, rgb(218.01, 194.79, 112.46) 0%, rgba(218.01, 112.46, 112.46, 0) 100%);
+    height: 837px;
+    left: 0;
+    position: absolute;
+    top: 280px;
+    width: 1728px;
+  }
+  
+  .update-profile .rectangle {
+    background-color: #000000;
+    border-radius: 40px;
+    height: 735px;
+    left: 54px;
+    position: absolute;
+    top: 51px;
+    width: 1620px;
+  }
+  
+  .update-profile .rectangle-2 {
+    background-color: #d9d9d9;
+    border-radius: 40px;
+    height: 722px;
+    left: 61px;
+    position: absolute;
+    top: 58px;
+    width: 1606px;
+  }
+  
+  .update-profile .frame {
+    background-color: #edbf48;
+    border-radius: 40px;
+    height: 70px;
+    left: 694px;
+    overflow: hidden;
+    position: absolute;
+    top: 675px;
+    width: 320px;
+  }
+  
+  .update-profile .text-wrapper-2 {
+    color: #000000cc;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 98px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    white-space: nowrap;
+    width: 124px;
+  }
+  
+  .update-profile .flexcontainer {
+    align-items: flex-start;
+    
+    flex-direction: column;
+    gap: 38px;
+    height: 478px;
+    left: 621px;
+    position: absolute;
+    top: 92px;
+    width: 14px;
+  }
+  
+  .update-profile .text {
+    align-self: stretch;
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+  }
+  
+  .update-profile .span {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .update-profile .flexcontainer-2 {
+    align-items: flex-start;
+    
+    flex-direction: column;
+    gap: 38px;
+    height: 478px;
+    left: 419px;
+    position: absolute;
+    top: 95px;
+    width: 193px;
+  }
+  
+  .update-profile .frame-2 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 70px;
+    left: 691px;
+    position: absolute;
+    top: 121px;
+    width: 661px;
+  }
+  
+  .update-profile .frame-3 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 70px;
+    left: 691px;
+    position: absolute;
+    top: 207px;
+    width: 661px;
+  }
+  
+  .update-profile .frame-4 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 70px;
+    left: 691px;
+    position: absolute;
+    top: 293px;
+    width: 661px;
+  }
+  
+  .update-profile .frame-5 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 70px;
+    left: 691px;
+    position: absolute;
+    top: 379px;
+    width: 661px;
+  }
+  
+  .update-profile .frame-6 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 70px;
+    left: 691px;
+    position: absolute;
+    top: 467px;
+    width: 661px;
+  }
+  
+  .update-profile .frame-7 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 70px;
+    left: 691px;
+    position: absolute;
+    top: 555px;
+    width: 661px;
+  }
+  
+  .update-profile .flexcontainer-3 {
+    align-items: flex-start;
+    
+    flex-direction: column;
+    gap: 38px;
+    height: 478px;
+    left: 723px;
+    position: absolute;
+    top: 95px;
+    width: 629px;
+  }
+  
+  .update-profile .overlap-group-2 {
+    background-color: #edbf48;
+    height: 160px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1728px;
+  }
+  
+  .update-profile .text-wrapper-3 {
+    color: #010101;
+    font-family: "Kelly Slab", Helvetica;
+    font-size: 75px;
+    font-weight: 400;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+    width: 299px;
+  }
+  
+  .update-profile .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 463px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 118px;
+  }
+  
+  .update-profile .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 616px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 184px;
+  }
+  
+  .update-profile .text-wrapper-6 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 835px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 134px;
+  }
+  
+  .update-profile .text-wrapper-7 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 1004px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 146px;
+  }
+  
+  .update-profile .text-wrapper-8 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 1185px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 59px;
+    width: 218px;
+  }
+  
+  .update-profile .div-wrapper {
+    background-image: url(https://c.animaapp.com/p7PZZtid/img/free-add-to-cart-icon-3046-thumb-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 62px;
+    left: 1518px;
+    position: absolute;
+    top: 54px;
+    width: 62px;
+  }
+  
+  .update-profile .text-wrapper-9 {
+    color: #edbf48;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .update-profile .overlap-2 {
+    height: 55px;
+    left: 1623px;
+    position: absolute;
+    top: 60px;
+    width: 55px;
+  }
+  
+  .update-profile .text-wrapper-10 {
+    color: #edbf48;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .update-profile .img {
+    height: 45px;
+    left: 5px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 45px;
+  }
+  

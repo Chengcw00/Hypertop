@@ -1,0 +1,131 @@
+.purchase-success {
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .purchase-success .div {
+    background-color: #d9d9d9;
+    height: 1117px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .purchase-success .image {
+    height: 147px;
+    left: 790px;
+    object-fit: cover;
+    position: absolute;
+    top: 169px;
+    width: 147px;
+  }
+  
+  .purchase-success .text-wrapper {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 64px;
+    font-weight: 400;
+    left: 661px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 372px;
+    width: 406px;
+  }
+  
+  .purchase-success .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 774px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 478px;
+    width: 180px;
+  }
+  
+  .purchase-success .flexcontainer {
+    align-items: flex-start;
+    
+    flex-direction: column;
+    gap: 50px;
+    height: 244px;
+    left: 886px;
+    position: absolute;
+    top: 590px;
+    width: 430px;
+  }
+  
+  .purchase-success .text {
+    align-self: stretch;
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+  }
+  
+  .purchase-success .span {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .purchase-success .flexcontainer-2 {
+    align-items: flex-start;
+    
+    flex-direction: column;
+    gap: 50px;
+    height: 244px;
+    left: 541px;
+    position: absolute;
+    top: 593px;
+    width: 246px;
+  }
+  
+  .purchase-success .flexcontainer-3 {
+    align-items: flex-start;
+    
+    flex-direction: column;
+    gap: 50px;
+    height: 244px;
+    left: 807px;
+    position: absolute;
+    top: 590px;
+    width: 14px;
+  }
+  
+  .purchase-success .frame {
+    background-color: #edbf48;
+    border-radius: 40px;
+    height: 70px;
+    left: 715px;
+    overflow: hidden;
+    position: absolute;
+    top: 945px;
+    width: 298px;
+  }
+  
+  .purchase-success .text-wrapper-3 {
+    color: #000000cc;
+    font-family: "Inter", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 12px;
+    white-space: nowrap;
+    width: 225px;
+  }
+  
